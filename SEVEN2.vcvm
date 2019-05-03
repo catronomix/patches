@@ -1,0 +1,151 @@
+{
+  "plugin": "NYSTHI",
+  "version": "0.6.39",
+  "model": "SevenSeas",
+  "params": [
+    {
+      "paramId": 19,
+      "value": 0.0
+    },
+    {
+      "paramId": 18,
+      "value": 0.0
+    },
+    {
+      "paramId": 3,
+      "value": 0.0
+    },
+    {
+      "paramId": 2,
+      "value": 0.200000003
+    },
+    {
+      "paramId": 1,
+      "value": 0.0
+    },
+    {
+      "paramId": 11,
+      "value": 0.0
+    },
+    {
+      "paramId": 12,
+      "value": 0.273227274
+    },
+    {
+      "paramId": 13,
+      "value": 0.00249850005
+    },
+    {
+      "paramId": 14,
+      "value": 0.00100000005
+    },
+    {
+      "paramId": 15,
+      "value": 0.0069939997
+    },
+    {
+      "paramId": 6,
+      "value": 0.0
+    },
+    {
+      "paramId": 10,
+      "value": 0.0422999971
+    },
+    {
+      "paramId": 8,
+      "value": 0.00555000035
+    },
+    {
+      "paramId": 17,
+      "value": 0.0
+    },
+    {
+      "paramId": 16,
+      "value": 0.0
+    },
+    {
+      "paramId": 4,
+      "value": 1.0
+    }
+  ],
+  "data": {
+    "m_decimate_mode": 0,
+    "m_current_octave": 0,
+    "m_bank": 0.0,
+    "m_wave": 33.6626472,
+    "m_pw": 0.49450615,
+    "m_swarming": false,
+    "m_morphing": true,
+    "m_dc_block": true,
+    "m_multithreaded": true,
+    "m_multithreaded_processing_block": 256,
+    "m_bank_navigator_scale": 4.0,
+    "m_global_original_file_name": "C:\\Users\\catronomix\\Documents\\Rack\\20181115_011339_ISgfWI_MR_2Px6I2IO.wav",
+    "m_original_file_name_array": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "C:\\Users\\catronomix\\Documents\\Rack\\20190104_173503_JJWhvy_MR_k02rISgf.wav",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}

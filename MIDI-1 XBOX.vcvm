@@ -1,0 +1,32 @@
+{
+  "plugin": "Core",
+  "version": "0.6.2b",
+  "model": "MIDITriggerToCVInterface",
+  "params": [],
+  "data": {
+    "notes": [
+      12,
+      13,
+      10,
+      11,
+      0,
+      2,
+      3,
+      1,
+      4,
+      5,
+      8,
+      9,
+      6,
+      7,
+      50,
+      51
+    ],
+    "midi": {
+      "driver": -10,
+      "deviceName": "Xbox Controller",
+      "channel": -1
+    },
+    "velocity": false
+  }
+}

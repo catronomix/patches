@@ -1,0 +1,38 @@
+{
+  "plugin": "Blamsoft-XFXF35",
+  "version": "0.6.0",
+  "model": "Blamsoft-XFXF35",
+  "params": [
+    {
+      "paramId": 0,
+      "value": 0.200999975
+    },
+    {
+      "paramId": 1,
+      "value": 0.5
+    },
+    {
+      "paramId": 2,
+      "value": 0.324000031
+    },
+    {
+      "paramId": 3,
+      "value": 1.0
+    },
+    {
+      "paramId": 4,
+      "value": 0.68050009
+    },
+    {
+      "paramId": 5,
+      "value": 0.546499968
+    },
+    {
+      "paramId": 6,
+      "value": 0.776499867
+    }
+  ],
+  "data": {
+    "mode": 11
+  }
+}
